@@ -1,0 +1,19 @@
+{
+  "name": "imageresizer",
+  "author": "Jeffrey Kwade",
+  "productName": "ImageResizer",
+  "version": "1.0.0",
+  "description": "Desktop App to Resizer Image",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "electron ."
+  },
+  "keywords": [],
+  "license": "ISC",
+  "dependencies": {
+    "electron": "^22.0.0",
+    "resize-img": "^2.0.0",
+    "toastify-js": "^1.12.0"
+  }
+}
